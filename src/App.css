@@ -1,0 +1,33 @@
+*{
+    margin: 3px;
+}
+
+img{
+    width: 200px;
+    margin-left: 600px;
+}
+
+.flight{
+    border: 2px solid black;
+}
+div{
+    margin-top:10px;
+}
+
+.name{
+    font-weight: bolder;
+    font-size: 30px;
+   left: 0;
+}
+
+.year{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+div.year , div.name{
+    margin-left: 350px;
+    top: 200px;
+    position: relative;
+}
+
