@@ -1,16 +1,13 @@
-import Users from "./components/Users/Users";
-import Posts from "./components/Posts/Posts";
-import Comments from "./components/Comments/Comments";
-import './App.css'
+import React from 'react';
 
-const App =() =>{
-    return(
-            <div>
-                <Users/>
-                <Posts/>
-                <Comments/>
-            </div>
 
+import './App.css';
+
+const App = () => {
+    return (
+        <div>
+
+        </div>
     );
 };
 
